@@ -80,3 +80,54 @@ a:hover {
     color: #e5e7eb;
     margin-top: 16px;
 }
+
+.randomtitle {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937 ;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.allcontainer {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-bottom: 120px;
+}
+
+.container {
+    width: 200px;
+    text-align: center;
+}
+
+.containerimg {
+    height: 200px;
+    width: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 16px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10%;
+    
+    
+}
+
+.quote-t {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.thor {
+    text-align: right;
+    font-weight: bolder;
+    font-size: 24px;
+    
+}
